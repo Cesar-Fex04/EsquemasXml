@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Songs SYSTEM "Song.dtd">
+
+<Songs>
+    <Cancion >
+        <duracion> 3:02    </duracion>
+        <titulo> Rain on me </titulo>
+
+        <compositores>
+            <compositor>
+                <apellidos> </apellidos>
+                <nombres> Lady gaga</nombres>
+            </compositor>
+        </compositores>
+        <productores>
+            BloodPop, Tchami y BURNS
+            <productor>
+                <apellidos>Yacoub </apellidos>
+                <nombres>Rami</nombres>
+            </productor>
+        </productores>
+
+        <sellos>		Interscope Records   </sellos>
+        <artistas> Lady gaga, ariana grande</artistas>
+
+    </Cancion>
+
+    <Cancion>
+        <duracion> 2:56</duracion>
+        <titulo>  Dance the nigth </titulo>
+
+        <compositores>
+            <compositor>
+                <apellidos> </apellidos>
+                <nombres>Dua lipa </nombres>
+            </compositor>
+        </compositores>
+
+        <productores>
+            <productor>
+                <apellidos>Wyatt </apellidos>
+                <nombres>Andrew</nombres>
+            </productor>
+        </productores>
+
+        <sellos>	Atlantic Records y Warner Records12.  </sellos>
+        <artistas>Dua Lipa </artistas>
+
+    </Cancion>
+
+    <Cancion>
+        <duracion> 3:25 </duracion>
+        <titulo> No Tears Left To Cry </titulo>
+
+        <compositores>
+            <compositor>
+                <apellidos>Grande </apellidos>
+                <nombres> Ariana</nombres>
+            </compositor>
+        </compositores>
+
+        <productores>
+            <productor>
+                <apellidos>Martin</apellidos>
+                <nombres>Max</nombres>
+            </productor>
+        </productores>
+
+        <sellos>	Republic Record  </sellos>
+        <artistas>Ariana Grande </artistas>
+
+    </Cancion>
+
+</Songs>
